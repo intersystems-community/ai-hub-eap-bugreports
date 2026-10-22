@@ -5,5 +5,5 @@ Please submit bugs you found in AI Hub here and InterSystems team will solve it 
 
 # InterSystems AI Hub
 
-[AI Hub documentation](https://github.com/intersystems-community/ai-hub-eap/tree/master)
+[AI Hub documentation](https://github.com/intersystems-community/ai-hub-eap/tree/master)   
 [EAP Portal for AI Hub Download](https://evaluation.intersystems.com/Eval/early-access/AIHub)
